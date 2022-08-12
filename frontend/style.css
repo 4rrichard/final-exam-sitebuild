@@ -57,6 +57,7 @@ body section {
 }
 body section .card-container {
   min-width: 0;
+  max-width: 400px;
 }
 body section .card-container .card {
   min-height: 100%;
